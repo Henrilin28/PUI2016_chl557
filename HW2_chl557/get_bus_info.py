@@ -5,7 +5,7 @@
 
 You can type 
     
-    python tweet_tf.py file_path output_path
+    python get_bus_info.py api_key bus_line bus_line.csv
 
 on your command line to execute this program
 

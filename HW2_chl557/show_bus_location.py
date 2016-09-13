@@ -5,7 +5,7 @@
 
 You can type 
     
-    python show_bus_location_chl557.py api_key bus_line
+    python show_bus_location.py api_key bus_line
 
 on your command line to execute this program
 
