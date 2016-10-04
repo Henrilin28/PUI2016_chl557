@@ -12,9 +12,6 @@ T-test| leadersihp tendency  | categorical |1 None 2.Low 3.Moderate 4.High Low v
   |||||||||
 
 | **Statistical Analyses | IV(s) | IV type(s) | DV(s) | DV type(s) | Control Var | Control Var type | Question to be answered | _H0_ | alpha | link to paper ** |
-| ---------------------- | ----- | ---------- | ----- | ---------- | ----------- | ---------------- | ----------------------- | ---- | ----- | ---------------- |
-|                        |       |            |       |            |             |                  |                         |      |       |                  |
-
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Correlation|1, Sum of the total pollen counts from each stations|continuous	|1, sum of total tweets reporting ARC symptoms|continuous|0|n/a|Is there a significant correlation of Pollen Counts with Tweets Reporting Symptoms of Allergic Rhinoconjunctivitis? | Significant level of pollen and tweets >= alpha | 0.05 | [Can Twitter Be a Source of Information on Allergy? Correlation of Pollen Counts with Tweets Reporting Symptoms of Allergic Rhinoconjunctivitis and Names of Antihistamine Drugs](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133706)|
   |||||||||
