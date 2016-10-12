@@ -1,6 +1,6 @@
 ## Assignment 1
 
-I
+I tired different distributions such as poission, gamma but failed. Finally, logistic works for me. I also tried KL test but failed. Here I use KS test and AD test to evaulate the hypothesis
 
 
 ## Assignment 2
