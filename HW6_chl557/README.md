@@ -7,4 +7,4 @@ The detail of the report is in the following link:
 
 # FBB good job. 
 
-A few notes: do not use a large number of decimal digits: one or two are sufficient. 
+A few notes: please check the comments on the authorea article
